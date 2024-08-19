@@ -5,9 +5,13 @@
 //*    Tips:
 //*        ⌘ Z
 //*        ⌘ ⇧ Z
-//*        Ctrl +Z
-//*        Ctrl + Shift + Z
+//*        Ctrl +Z para deshacer
+//*        Ctrl + Shift + Z para rehacer
 //*
+
+function holaMundo() {
+    return 'Saludos a todos!';
+}
 
 
 //! Demo

@@ -10,6 +10,7 @@
 //*        Seleccionar todas las ocurrencias de la selección
 //*        ⇧ ⌘ L
 //*        Ctrl + Shift + L selecciona todas las ocurrencias de la selección
+//*        Pero debe estar el cursor en la palabra a seleccionar
 //*
 
 let NoMeBorres = ':)';
