@@ -4,12 +4,12 @@
 //*
 //*    Tips:
 //*        ⇧ ⌘ K
-//*        Ctrl + Shift + K
+//*        Ctrl + Shift + K para borrar la línea actual
 //*
 //*    PRO:
 //*        Seleccionar todas las ocurrencias de la selección
 //*        ⇧ ⌘ L
-//*        Ctrl + Shift + L
+//*        Ctrl + Shift + L selecciona todas las ocurrencias de la selección
 //*
 
 let NoMeBorres = ':)';
